@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wendyzhou502
 - 👀 I’m interested in anything about news, journalism, media, communication, and politics.
 - 🌱 I’m currently learning R and Python, especially for conducting sentiment and network analysis.
-- 💞️ I’m looking to collaborate on research projects of political discourse (race & gender in particular), Chinese transnational/diaspora journalism. 
+- 💞️ I’m looking to collaborate on research projects of political discourse (satire, nationalism, and broadly race & gender), Chinese transnational/diaspora journalism. 
 - 📫 How to reach me: wzhou5@gsu.edu; wendyzhou502@gmail.com
 
 <!---
